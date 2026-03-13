@@ -308,10 +308,6 @@ export default function SummitLogicSplashPage() {
                 </div>
               </div>
 
-              <div>
-                <div className="text-slate-300">Phone</div>
-                <div className="mt-1 text-base font-medium">330-936-0511</div>
-              </div>
 
               <div>
                 <div className="text-slate-300">Service Area</div>
