@@ -304,7 +304,7 @@ export default function SummitLogicSplashPage() {
               <div>
                 <div className="text-slate-300">Email</div>
                 <div className="mt-1 text-base font-medium">
-                  david.barnes1010@gmail.com
+                  summit.logic10@gmail.com
                 </div>
               </div>
 
